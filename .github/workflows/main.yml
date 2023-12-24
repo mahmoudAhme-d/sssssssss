@@ -1,0 +1,11 @@
+name: name1
+on: push
+jobs:
+  my-job-is-her:
+    runs-on: ubuntu-latest
+    steps:
+     - name: print my work flow 
+     - run: echo "noooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+     - name: print job title
+     - run: echo "yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees"
+      
