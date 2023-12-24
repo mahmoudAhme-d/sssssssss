@@ -1,10 +1,10 @@
-name: name
+name: name1
 on: push
 jobs:
-  jobs-name:
+  my-job-is-her:
     runs-on: ubuntu-latest
     steps:
-      - name: print please im here and good job
-        run: echo "great job"
-      - name: print another great job
-        run: echo "another great job"
+     - name: print my work flow 
+     - run: echo "noooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+     - name: print job title
+     - run: echo "yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees"
