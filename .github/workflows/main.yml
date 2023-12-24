@@ -1,7 +1,7 @@
 name: name1
 on: push
 jobs:
-  jobs-is-her:
+  my-job-is-her:
     runs-on: ubuntu-latest
     steps:
      - name: print my work flow 
